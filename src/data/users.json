@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Петров",
+    "email": "ivan.petrov@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Анна Смирнова",
+    "email": "anna.smirnova@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Дмитрий Иванов",
+    "email": "dmitry.ivanov@example.com",
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  }
+]
